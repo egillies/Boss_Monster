@@ -1,0 +1,24 @@
+.card-player {
+  width: 20vw;
+  max-height: 30vh;
+  object-fit: cover;
+}
+
+.boss-card {
+  width: 60vw;
+
+  object-fit: cover;
+}
+
+.hero-img {
+  object-fit: contain;
+
+}
+
+.hero-row {
+  height: 40vh;
+}
+
+.shop-card {
+  width: 100%;
+}
